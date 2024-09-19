@@ -1,12 +1,12 @@
 # Football Decision Analysis - Interactive Dashboard
 
 
-Project Overview
+#Project Overview
 
 
 This project aims to analyze and visualize key decision-making scenarios during a football game using an interactive Power BI dashboard. It explores various play choices such as passing, running, kicking a field goal, or punting, alongside the impact of down scenarios and yard line positions. The dashboard provides detailed insights into how these decisions affect the game's dynamics and outcome, helping users understand strategic choices made during pivotal moments.
 
-Data Description
+#Data Description
 
 
 The dataset used for this project captures different play types and key attributes affecting football games, including:
@@ -37,7 +37,7 @@ The dataset used for this project captures different play types and key attribut
 Database:https://drive.google.com/file/d/1980UNGlCyZLC3WwGceUI0RkrLX54NgMF/view
 
 
-Key Visualizations
+#Key Visualizations
 
 
 -Points Count by Antecedent: A stacked bar chart that visualizes how different play antecedents contribute to the overall points scored or lost.
@@ -54,7 +54,7 @@ Key Visualizations
 
 
 
-Workflow
+#Workflow
 
 
 -Data Import and Cleaning: The dataset was imported into Power BI. Basic data cleaning, including column renaming and handling missing or incomplete data, was performed to ensure consistency.
@@ -67,7 +67,7 @@ Workflow
 
 
 
-Key Insights
+#Key Insights
 -Strategic Play Insights:
 
 Passing and running plays contribute significantly to both points gained and lost, while kicking and punting are generally conservative choices.
@@ -86,7 +86,7 @@ Pass and run plays typically have higher confidence levels, indicating they are 
 
 
 
-Contributing:
+#Contributing
 
 Contributions are welcome to improve the dashboard or to suggest new visualizations and data insights. If you would like to contribute:
 
